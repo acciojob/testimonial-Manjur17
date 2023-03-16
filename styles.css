@@ -16,6 +16,9 @@
               /* border: 0.5px solid black; */
         }
 
+		p{
+			text-align:right;
+		}
         i{
             float: right;
         }
